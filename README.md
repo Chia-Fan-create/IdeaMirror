@@ -47,16 +47,17 @@ The goal is to support early hypothesis testing, not to replace real user resear
 #### Prototype
 
 Figma Prototype (Interactive Demo)
+Link below:
 https://quest-mask-76730639.figma.site/
 
 
 #### Screens
 
-Entry screen(designs/Entry_screen.png)
+![Entry Screen](designs/Entry_screen.png)
 
-Customer selection & simulation setup(designs/Customer_selection_simulation_setup.png)
+![Customer selection & simulation setup](designs/Customer_selection_simulation_setup.png)
 
-Shadow customer preview(designs/preview_report.png)
+![Shadow customer preview](designs/preview_report.png)
 
 #### Future Implementation (Conceptual)
 
