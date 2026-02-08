@@ -23,13 +23,13 @@ Idea Mirror introduces AI-generated “shadow customers” that simulate realist
 
 PMs can:
 
-Upload an idea or document
+- Upload an idea or document
 
-Define target customer segments
+- Define target customer segments
 
-Run simulations with hundreds of AI customers
+- Run simulations with hundreds of AI customers
 
-Receive a synthesized report for decision-making
+- Receive a synthesized report for decision-making
 
 #### Key Features
 
@@ -44,16 +44,17 @@ PM-ready insight reports
 #### Prototype
 
 Figma Prototype (Interactive Demo)
+Link below:
 https://quest-mask-76730639.figma.site/
 
 
 #### Screens
 
-Entry screen(designs/Entry_screen.png)
+![Entry Screen](designs/Entry_screen.png)
 
-Customer selection & simulation setup(designs/Customer_selection_simulation_setup.png)
+![Customer selection & simulation setup](designs/Customer_selection_simulation_setup.png)
 
-Shadow customer preview(designs/preview_report.png)
+![Shadow customer preview](designs/preview_report.png)
 
 #### Team & Role
 
