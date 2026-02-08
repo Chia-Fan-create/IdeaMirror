@@ -63,6 +63,8 @@ https://quest-mask-76730639.figma.site/
 
 While this project is currently a prototype, below is a realistic path for production implementation:
 
+![System Arch](sys_arch.png)
+
 1. Idea Ingestion & Processing
 
 - PM uploads an idea or PRD (text or PDF)
