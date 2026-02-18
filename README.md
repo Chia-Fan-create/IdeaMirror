@@ -1,6 +1,6 @@
 ### Idea Mirror 🤯🪞
 
-AI-powered customer simulation for early product validation
+AI-powered customer simulation for early product validation!
 
 #### Background
 
